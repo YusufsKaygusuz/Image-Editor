@@ -1,5 +1,7 @@
 # Image-Editor
-Website designed for simple editing of your images
+
+![image](https://user-images.githubusercontent.com/86704802/227034763-4315409c-7467-40f5-93a1-217bbe1d9ba2.png)
+
 
 <h2>🎨💻📷 Easy Image Editor 📷💻🎨<h2>
 
